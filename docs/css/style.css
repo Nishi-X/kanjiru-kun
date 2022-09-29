@@ -869,6 +869,7 @@ body.opened .edina_tm_hero .extra {
 }
 
 .edina_tm_hero .btn-c {
+	display: inline-block;
 	font-size: 1.8rem;
 	position: relative;
 	text-align: center;
@@ -2785,4 +2786,11 @@ body.modal {
 	text-decoration: none;
 	color: white !important;
 	background-color: gray;
+}
+
+.hu-img {
+	display: inline-block;
+	margin-top: 20px;
+	max-width: 300px;
+	width: 40%;
 }
