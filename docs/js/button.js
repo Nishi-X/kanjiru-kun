@@ -1,4 +1,4 @@
-var released = false;
+var released = true;
 var info = {
     "release": {
         "text": "<span><span style='display: inline-block'>Google Playで</span><span style='display: inline-block'>インストール</span></span>",
